@@ -1,5 +1,4 @@
 import streamlit as st
-import openai
 import google.generativeai as genai
 
 # Streamlit UI
